@@ -1,4 +1,9 @@
-### Hi there 👋
+### Bonjour, je suis Jimmy Dupré. 
+
+Je suis développeur web Fullstack JS.
+Je travail aussi sur des projets en PHP avec des framework comme WordPress et Prestashop.
+
+
 
 <!--
 **jimmydupre/jimmydupre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
